@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Analysis & Mobile Apps
 - 🌱 I’m currently learning Data Analysis using Excel
 - 💞️ I’m looking to collaborate on your project
-- 📫 How to reach me on WhatsApp +201158195026
+- 📫 How to reach me on WhatsApp +201158195026 or by email bishoyzarif5@gmail.com
+
 
 <!---
 Peshoy29/Peshoy29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
